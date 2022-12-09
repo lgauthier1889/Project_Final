@@ -1,7 +1,8 @@
 #Lousiane Gauthier
-#This Python program displays a golf score card and
+#This Python program displays a golf score card 
+#from 3 main courses near FGCU and,
 # It also,lets you fill your score for each hole,
-#and calculates your stadistics of your round
+#and calculates your statistics of your round
 #Sources: W3Schools, https://www.w3schools.com/python/python_intro.asp
 
 #Function definitions:
